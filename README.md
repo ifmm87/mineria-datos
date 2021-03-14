@@ -3,5 +3,5 @@
   - Argollo Ticona Ever Favio
   - Mujica Mamani Ivan Fernando
 ## Maestría en Ciencia de Datos v2
-### Prof.: Orlando Figueroa
+### Prof.: Oswaldo Figueroa
 ### Universidad Católica Boliviana San Pablo
